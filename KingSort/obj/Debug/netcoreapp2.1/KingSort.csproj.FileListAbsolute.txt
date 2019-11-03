@@ -1,0 +1,14 @@
+C:\Users\Ester\Documents\KingSort\KingSort\bin\Debug\netcoreapp2.1\KingSort.deps.json
+C:\Users\Ester\Documents\KingSort\KingSort\bin\Debug\netcoreapp2.1\KingSort.runtimeconfig.json
+C:\Users\Ester\Documents\KingSort\KingSort\bin\Debug\netcoreapp2.1\KingSort.runtimeconfig.dev.json
+C:\Users\Ester\Documents\KingSort\KingSort\bin\Debug\netcoreapp2.1\KingSort.dll
+C:\Users\Ester\Documents\KingSort\KingSort\bin\Debug\netcoreapp2.1\KingSort.pdb
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.csprojAssemblyReference.cache
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.csproj.CoreCompileInputs.cache
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.RazorAssemblyInfo.cache
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.RazorAssemblyInfo.cs
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.AssemblyInfoInputs.cache
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.AssemblyInfo.cs
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.RazorTargetAssemblyInfo.cache
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.dll
+C:\Users\Ester\Documents\KingSort\KingSort\obj\Debug\netcoreapp2.1\KingSort.pdb
